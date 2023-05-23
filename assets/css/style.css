@@ -1,0 +1,21 @@
+body{
+    font-family: Fredoka;
+}
+table, th, td {
+
+    border: 2px solid skyblue
+    
+    }
+table tr td{
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+    margin-top: 120px;
+    width: 500px;
+    height: 200px;
+}
+caption{
+    font-size: 30px;
+    margin-bottom: 5px;
+}
